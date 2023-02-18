@@ -1,3 +1,5 @@
+// start logic
+
 let menu = document.querySelector('#menu-btn');
 let navbarLinks = document.querySelector('.header .navbar .links');
 
